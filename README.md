@@ -1,14 +1,14 @@
 ## Hi there 👋
 # 💫 About Me:
 Currently I am working at Urban company as Relationship manager. I joined Urban company on March 2025 as Business Development Associate. On december 2025 I got promoted as Relationship Manager. I work with their supply chain and operations. Right now i am pursuing a course on Data Analytics to upgrade my skills. It will help me in my professional growth and career. In future, I want to become Data Analyst / Business Analyst. Besides, I love to learn new activities. 
-🌱 Currently learning:
+# Currently learning:
 Advanced SQL
 Machine Learning
 Data Science Concepts
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/paulami-debnath-607986332) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paulami.debnath1907@gmail.com) 
-🛠️ Analytics Toolkit
+## Analytics Toolkit:
 Languages
 Python
 SQL
